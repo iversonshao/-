@@ -71,5 +71,6 @@ int main(){
 	//printf("%d\n",a[1]);
 	printf("%d\n",f8(6));
 	return 0;
+	//112356
 }
 
